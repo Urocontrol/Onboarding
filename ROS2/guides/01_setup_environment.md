@@ -99,12 +99,11 @@ source /opt/ros/kilted/setup.bash
     
     ```bash
     source /opt/ros/kilted/setup.bash
-    ros2 run demo_nodes_py listner
+    ros2 run demo_nodes_py listener
     ```
     
 
-![잘 작동되고 있음을 확인할 수 있다.]
-(./etc/01_setup_environment_01.png)
+![잘 작동되고 있음을 확인할 수 있다.](./etc/01_setup_environment_01.png)
 
 잘 작동되고 있음을 확인할 수 있다.
 
